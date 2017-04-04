@@ -1,0 +1,8 @@
+{
+  "name": "emoji-list",
+  "version": "1.0.0",
+  "description": "list of emoji by category",
+  "main": "index.js",
+  "author": "René Herrmann",
+  "license": "MIT"
+}
